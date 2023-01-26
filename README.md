@@ -1,7 +1,7 @@
-<h1 align="center"> BoraCodar - Chat</h1>
+<h1 align="center"> #boracodar</h1>
 
 <p align="center">
-Tela de um Chat - Desafio 04 <br/>
+Tela de Chat - Desafio 04 <br/>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -17,7 +17,7 @@ Tela de um Chat - Desafio 04 <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/capa.png" width="100%">
+  <img alt="Projeto Chat" src=".github/capa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O desafio 04 foi necessário desenvolver uma tela e chat.
+Desenvolver um chat mobile/desktop,responsivo.
 
 ## :memo: Licença
 
