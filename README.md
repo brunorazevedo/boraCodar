@@ -1,4 +1,4 @@
-<h1 align="center"> #boracodar</h1>
+<h1 align="center"> #boraCodar</h1>
 
 <p align="center">
 Tela de Chat - Desafio 04 <br/>

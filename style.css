@@ -3,11 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 html {
   font-size: 62.5%;
 }
-
 body {
   font-family: "Roboto", sans-serif;
   background-color: #1a1924;
@@ -25,90 +23,72 @@ body {
   justify-content: space-between;
   align-items: center;
 }
-
 .header__info-person {
   display: flex;
 }
-
 .person {
   margin-left: 1.6rem;
 }
-
 .person h2 {
   font-size: 1.6rem;
 }
-
 .person p::after {
   content: "Online";
   color: #00b37e;
   margin-left: 0.4rem;
 }
-
 .date-day {
   margin-top: 2.6rem;
   text-align: center;
 }
-
 .message-left {
   margin-top: 3rem;
 }
-
 .first{
   max-width: 27.2rem;
 }
-
 .second{
   max-width: 44.2rem;
 }
-
 .name-hours {
   margin-bottom: 10px;
 }
-
 .block-message {
   background-color: #633bbc;
   padding: 1.4rem;
   border-radius: 0px 8px 8px 8px;
 }
-
 .block-message p {
   line-height: 1.4rem;
   min-width: 12.2rem;
 }
-
 .block-message p.second {
   line-height: 1.4rem;
 }
-
 .message-right {
   margin-top: 3rem;
   flex-direction: column;
   align-items: flex-end;
   display: flex;
 }
-
 .block-message-right {
   background-color: #07847e;
   padding: 1.4rem;
   height: 4.2rem;
   border-radius: 8px 8px 0px 8px;
 }
-
 .block-message-right p {
   max-width: 12.2rem;
 }
-
 .input-message {
   display: flex;
   position: relative;
 }
-
 .input-message img {
   position: absolute;
   right: 24px;
   top: 67px;
 }
-
 input {
   margin-top: 5.4rem;
   margin-bottom: 3.2rem;
@@ -119,7 +99,6 @@ input {
   background: #282843;
   border-radius: 999px;
 }
-
 @media (max-width: 375px) {
   .block-message {
     width: 15.9rem;
