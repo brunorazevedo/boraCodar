@@ -25,6 +25,7 @@ body {
 }
 .header__info-person {
   display: flex;
+  align-items: center;
 }
 .person {
   margin-left: 1.6rem;
@@ -44,10 +45,10 @@ body {
 .message-left {
   margin-top: 3rem;
 }
-.first{
+.first {
   max-width: 27.2rem;
 }
-.second{
+.second {
   max-width: 44.2rem;
 }
 .name-hours {
